@@ -50,7 +50,7 @@ main:
 [INFO] 
 [INFO] --- hadoop-maven-plugins:3.3.6:version-info (version-info) @ hadoop-common ---
 [INFO] SCM: GIT
-[INFO] Computed MD5: e67973fd791437846999b633da682
+[INFO] Computed MD5: 420f79035aabec48d7fdb68f4e4015
 [INFO] 
 [INFO] --- hadoop-maven-plugins:3.3.6:resource-gz (resource-gz) @ hadoop-common ---
 [INFO] Compressing /home/dovely/Ctest/ctest-runner/app/hadoop/hadoop-common-project/hadoop-common/src/main/webapps/static/hadoop.css to /home/dovely/Ctest/ctest-runner/app/hadoop/hadoop-common-project/hadoop-common/target/webapps/static/hadoop.css.gz
@@ -153,6 +153,6 @@ main:
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  9.379 s
-[INFO] Finished at: 2023-11-22T15:25:42+08:00
+[INFO] Total time:  9.960 s
+[INFO] Finished at: 2023-11-23T16:38:52+08:00
 [INFO] ------------------------------------------------------------------------
