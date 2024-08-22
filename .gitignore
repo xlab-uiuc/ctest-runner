@@ -4,6 +4,7 @@ target/
 app/
 log/
 docker/apps/**/
+**/__pycache__
 .idea/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
